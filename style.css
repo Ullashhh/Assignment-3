@@ -1,0 +1,20 @@
+.cover-img img{
+    filter: brightness(60%);
+    filter: blur(25%);
+}
+.button{
+    margin-left: 44%;
+}
+.ques-sec{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.fa-brands{
+    color: white;
+}
+footer{
+    margin-top: 100px;
+}
+.cover-img img{
+    height: 750px;
+}
