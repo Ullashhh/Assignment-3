@@ -2,17 +2,6 @@
     filter: brightness(60%);
     filter: blur(25%);
 }
-.button p{
-    /* text-align: center; */
-    /* display: flex; */
-    /* flex-direction: column; */
-    /* justify-content: center; */
-    /* align-items: center; */
-    /* margin-left: 30%; */
-    /* margin-right: 20%; */
-    /* padding-left: 30%; */
-    /* padding-right: 30%; */
-}
 .ques-sec{
     margin-left: 10%;
     margin-right: 10%;
